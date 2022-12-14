@@ -103,3 +103,4 @@ dist
 # TernJS port file
 .tern-port
 growthbook-vue-ts/src/main.ts
+growthbook-vue-ts/src/main.ts
